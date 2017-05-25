@@ -3,7 +3,7 @@
 \usepackage[T2A]{fontenc}
 \usepackage[cp1251]{inputenc}
 \usepackage[russian]{babel}
-\usepackage{pscyr}% Хорошо бы уставновить эти шрифты и активировать данный пакет
+\usepackage{pscyr}
 \usepackage{times} % На первое время можно использовать просто Times
 \usepackage{graphicx}
 \usepackage{amstext}
@@ -15,7 +15,7 @@
 \usepackage{ulem}
 \usepackage{indentfirst}
 \usepackage{cmap}%позволяет копировать кириллицу из скомпилированного файла
-
+\usepackage{pdfpages}
 \usepackage{enumitem}
 \makeatletter
 \AddEnumerateCounter{\asbuk}{\@asbuk}{м)}
@@ -29,7 +29,7 @@
 \setcounter{tocdepth}{2}
 
 %\renewcommand{\rmdefault}{cmss}  Это шрифт Computer Modern Sans
-%\renewcommand{\rmdefault}{ftm} Это активируйте, если установили PSCyr
+\renewcommand{\rmdefault}{ftm} %Это активируйте, если установили PSCyr
 \renewcommand\theadfont{\normalsize}
 
 \input{environment}
@@ -47,21 +47,29 @@
 \titleDegree{бакалавр техники и технологии}
 \titleСhief{Специализация}
 \titleSubDepartment{КСУИ}
-\gostklgi{КСУИ.112.P3440.001 ПЗ}
-\gostrazrabotchik{Клюнин А.О.} % студента
-\gostproveril{Пыркин А.А.} % проверяющего
-\gostnormokontroler{Николаев Н.А}
-\gostutverdil{Бобцов А.А}
-\gosttitledocument{Управление манипуляционным роботом с заданными силами взаимодействия\\Пояснительная записка}
-\gosttitlecompany{Университет ИТМО\\Кафедра СУИ}
-\gostlitera{д} % буква в таблице, ставится только в дипломной работе, в УИРС не надо
+\gostklgi{КСУИ.135.P3340.001 ПЗ}
+\gostrazrabotchik{Карнаухов В.Р.} % студента
+\gostproveril{Григорьев В.В.} % проверяющего
+\gostnormokontroler{}
+\gostutverdil{}
+\gosttitledocument{
+	Синтез последовательного
+	регулятора для замкнутой
+	следящей системы методом
+	желаемых ЛАЧХ
+}
+\gosttitlecompany{Университет ИТМО\\Кафедра СУИ\\Группа P3340}
+\gostlitera{} % буква в таблице, ставится только в дипломной работе, в УИРС не надо
 \date{}
 
 \usepackage{titlesec}
 
-\titlespacing*{\section}{\parindent}{*4}{*4} \titlespacing*{\subsection}{\parindent}{*4}{*4}
+\titleformat{\section}[block]{\fontsize{16pt}{0cm}\bfseries\filcenter}{\thesection}{1em}{}
+\titleformat{name = \section, numberless}[hang]{\fontsize{16pt}{0cm}\bfseries}{\fillast}{1em}{}
+\titlespacing*{\section}{\parindent}{*4}{*4}  \titlespacing*{\subsection}{\parindent}{*4}{*4}
 \titlespacing*{\subsubsection}{\parindent}{*4}{*4}
 \begin{document}
+	
 	% Переменование "Список литературы" в "Литература"
 	\renewcommand{\refname}{Список используемых источников}	
 	% Первая страница это Титульный лист
@@ -73,16 +81,16 @@
 	% Содержание
 	\tableofcontents
 	% Примеры разделов ПЗ
-	\include{introduction} % подцепляет файл intoduction.tex
-	\include{overview}
-	\include{workDefinition}
-	\include{po}
-	\include{control}
-	\include{exp}
-	% \include{definition} и т.д создаете столько файлов и разделов, сколько нужно
-	\include{main}
-	% \include{tests}
-	\include{conclusion} 
+	\include{in}
+	\include{target}
+	\include{oprust}
+	\include{sintes}
+	\include{model}
+	\include{elec}
+	\include{end}
+	
+	
 	\include{bibliography}
-	\include{appends}
+	
+	
 \end{document}

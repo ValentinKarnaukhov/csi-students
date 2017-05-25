@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.15)  22 MAY 2016 19:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.11)  25 MAY 2017 10:44
 entering extended mode
 **./diplom.tex
 (diplom.tex
-LaTeX2e <2015/10/01> patch level 2
-Babel <3.9n> and hyphenation patterns for 69 languages loaded.
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+LaTeX2e <2017/01/01> patch level 1
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+(D:\MikTex\tex\latex\base\article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
+(D:\MikTex\tex\latex\base\size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -20,148 +20,125 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) ("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
-"
-Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+) (D:\MikTex\tex\latex\base\fontenc.sty
+Package: fontenc 2017/01/24 v2.0c Standard LaTeX package
 
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2aenc.de
-f"
+(D:\MikTex\tex\latex\cyrillic\t2aenc.def
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 )
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 105.
 
 
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd
-"
+(D:\MikTex\tex\latex\cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+(D:\MikTex\tex\latex\base\inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
-
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\cp1251.de
-f"
+ (D:\MikTex\tex\latex\cyrillic\cp1251.def
 File: cp1251.def 2014/10/28 v1.0d Input encoding file
-))
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2016/01/08 3.9n The Babel package
+)) (D:\MikTex\tex\generic\babel\babel.sty
+Package: babel 2016/04/23 3.9r The Babel package
+
 *************************************
 * Local config file bblopts.cfg used
 *
-
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\bblopts.c
-fg"
-File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+(D:\MikTex\tex\latex\arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-russian\russ
-ianb.ldf"
-Language: russianb 2016/02/18 1.3h Russian support for the Babel system
+(D:\MikTex\tex\latex\babel-russian\russianb.ldf
+Language: russianb 2017/01/12 1.3i Russian support for the Babel system
 
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2016/01/08 3.9n Babel common definitions
+(D:\MikTex\tex\generic\babel\babel.def
+File: babel.def 2016/04/23 3.9r Babel common definitions
 \babel@savecnt=\count87
 \U@D=\dimen103
 )
 Package babel Info: Making " an active character on input line 111.
-)) ("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pscyr\pscyr.sty
-"
+)) (D:\MikTex\tex\latex\pscyr\pscyr.sty
 Package: pscyr 2002/07/04 v0.4d Cyrillic Type1 fonts as default
-)
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+) (D:\MikTex\tex\latex\psnfss\times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
-sty"
+(D:\MikTex\tex\latex\graphics\graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
-y"
+(D:\MikTex\tex\latex\graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
-sty"
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+(D:\MikTex\tex\latex\graphics\graphics.sty
+Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+(D:\MikTex\tex\latex\graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graphics.
-cfg"
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+(D:\MikTex\tex\latex\graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.
-def"
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+(D:\MikTex\tex\latex\graphics-def\pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
 
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
-rr.sty"
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+(D:\MikTex\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
-.sty"
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+(D:\MikTex\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count88
 ))
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.st
-y"
-Package: amstext 2000/06/29 v2.01
+(D:\MikTex\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
-"
-File: amsgen.sty 1999/11/30 v2.0
+(D:\MikTex\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks17
 \ex@=\dimen106
 ))
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.s
-ty"
+(D:\MikTex\tex\latex\amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.
-sty"
+(D:\MikTex\tex\latex\amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
-y"
-Package: amsmath 2013/01/14 v2.14 AMS math features
+(D:\MikTex\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
-"
-Package: amsbsy 1999/11/29 v1.2d
+(D:\MikTex\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen107
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
-"
-Package: amsopn 1999/12/14 v2.01 operator names
+(D:\MikTex\tex\latex\amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count89
-LaTeX Info: Redefining \frac on input line 210.
+LaTeX Info: Redefining \frac on input line 213.
 \uproot@=\count90
 \leftroot@=\count91
-LaTeX Info: Redefining \overline on input line 306.
+LaTeX Info: Redefining \overline on input line 375.
 \classnum@=\count92
 \DOTSCASE@=\count93
-LaTeX Info: Redefining \ldots on input line 378.
-LaTeX Info: Redefining \dots on input line 381.
-LaTeX Info: Redefining \cdots on input line 466.
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
 \big@size=\dimen108
-LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \macc@depth=\count94
 \c@MaxMatrixCols=\count95
 \dotsspace@=\muskip10
@@ -182,12 +159,11 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \multlinegap=\skip44
 \multlinetaggap=\skip45
 \mathdisplay@stack=\toks21
-LaTeX Info: Redefining \[ on input line 2665.
-LaTeX Info: Redefining \] on input line 2666.
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
 ) (diplom.sty (G2-105-95.sty
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty
-"
-Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
+(D:\MikTex\tex\latex\tools\multicol.sty
+Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
 \c@tracingmulticols=\count101
 \mult@box=\box28
 \multicol@leftmargin=\dimen115
@@ -234,9 +210,8 @@ Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
 \mult@nat@firstbox=\box52
 \colbreak@box=\box53
 \mc@col@check@num=\count109
-)
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\textcomp.sty"
-Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+) (D:\MikTex\tex\latex\base\textcomp.sty
+Package: textcomp 2017/01/24 v2.0c Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
 (textcomp)               4 = 5 + \texteuro
@@ -249,7 +224,7 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             Family '?' is the default used for unknown fonts.
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+(D:\MikTex\tex\latex\base\ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 )
 LaTeX Info: Redefining \oldstylenums on input line 334.
@@ -316,8 +291,7 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\floatflt\floatflt.
-sty"
+(D:\MikTex\tex\latex\floatflt\floatflt.sty
 Package: floatflt 1997/07/16 v. 1.31
 \c@OptionTest=\count110
 \figbox=\box54
@@ -339,7 +313,7 @@ Package: floatflt 1997/07/16 v. 1.31
 \fltitemwidth=\dimen131
 \outputpretest=\toks22
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+(D:\MikTex\tex\latex\float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count117
 \float@exts=\toks23
@@ -347,11 +321,9 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks24
 \@floatcapt=\box58
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\rotating\rotating.
-sty"
-Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
-
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+(D:\MikTex\tex\latex\graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+ (D:\MikTex\tex\latex\base\ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@r@tfl@t=\count118
@@ -359,7 +331,7 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \rotFPbot=\skip49
 \rot@float@box=\box59
 \rot@mess@toks=\toks25
-) ("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
+) (D:\MikTex\tex\latex\tools\calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count119
 \calc@Bcount=\count120
@@ -372,22 +344,17 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count121
 \calc@Cskip=\skip52
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
-sty"
+(D:\MikTex\tex\latex\geometry\geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
-ty"
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
+(D:\MikTex\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.
-sty"
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+(D:\MikTex\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
-sty"
+(D:\MikTex\tex\generic\ifxetex\ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count122
@@ -403,19 +370,15 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen141
 \Gm@dimlist=\toks26
 
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
-cfg"))
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\indentfirst.
-sty"
+(D:\MikTex\tex\latex\geometry\geometry.cfg))
+(D:\MikTex\tex\latex\tools\indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.st
-y"
+(D:\MikTex\tex\latex\caption\caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.s
-ty"
-Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+(D:\MikTex\tex\latex\caption\caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen142
 \captionmargin@=\dimen143
@@ -430,8 +393,7 @@ Package caption Info: float package is loaded.
 Package caption Info: floatflt package is loaded.
 Package caption Info: rotating package is loaded.
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.st
-y"
+(D:\MikTex\tex\latex\tools\longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip53
 \LTright=\skip54
@@ -449,15 +411,13 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count130
 \LT@p@ftn=\toks27
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\footnpag\footnpag.
-sty"
+(D:\MikTex\tex\latex\footnpag\footnpag.sty
 Package: footnpag 1995/11/10 v2.6 numbering footnotes per page
 \old_foot_file=\read1
 \foot_file=\write3
 \foot_name_no=\count131
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\footmisc\footmisc.
-sty"
+(D:\MikTex\tex\latex\footmisc\footmisc.sty
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
 \FN@temptoken=\toks28
 \footnotemargin=\dimen150
@@ -475,45 +435,41 @@ Package: G2-105-95 2002/12/12 v0.01 General reqs.
 \c@engost=\count133
 \c@ensubgost=\count134
 ) (G2-104-68.sty
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.st
-y"
+(D:\MikTex\tex\latex\eso-pic\eso-pic.sty
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegsh
-i.sty"
-Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+(D:\MikTex\tex\generic\oberdiek\atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
-Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\color.cfg
-"
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+(D:\MikTex\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(D:\MikTex\tex\latex\graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
-Package xcolor Info: Model `RGB' extended on input line 1353.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ))
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+(D:\MikTex\tex\latex\ms\everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lastpage\lastpage.
-sty"
+(D:\MikTex\tex\latex\lastpage\lastpage.sty
 Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\epsfig.st
-y"
+(D:\MikTex\tex\latex\graphics\epsfig.sty
 Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 \epsfxsize=\dimen151
 \epsfysize=\dimen152
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psfrag\psfrag.sty"
+(D:\MikTex\tex\latex\psfrag\psfrag.sty
 Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
 \pfg@pcount=\count135
 \pfg@scount=\count136
@@ -536,13 +492,11 @@ LaTeX Warning: You have requested package `diplom',
 
 Package: eskdpz 2002/12/12 v0.01 Unified system for design documentation PZ (??
 ?)
-)
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\makecell\makecell.
-sty"
+) (D:\MikTex\tex\latex\makecell\makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
-Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+(D:\MikTex\tex\latex\tools\array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \col@sep=\dimen153
 \extrarowheight=\dimen154
 \NC@list=\toks29
@@ -553,113 +507,169 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \c@nlinenum=\count139
 \TeXr@lab=\toks30
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow.
-sty"
+(D:\MikTex\tex\latex\multirow\multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip61
+\multirow@cntb=\count140
+\multirow@dima=\skip62
 \bigstrutjot=\dimen156
-) ("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ulem\ulem.sty"
+) (D:\MikTex\tex\latex\ulem\ulem.sty
 \UL@box=\box65
 \UL@hyphenbox=\box66
-\UL@skip=\skip61
+\UL@skip=\skip63
 \UL@hook=\toks31
 \UL@height=\dimen157
-\UL@pe=\count140
+\UL@pe=\count141
 \UL@pixel=\dimen158
 \ULC@box=\box67
 Package: ulem 2012/05/18
 \ULdepth=\dimen159
-) ("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cmap\cmap.sty"
+) (D:\MikTex\tex\latex\cmap\cmap.sty
 Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
+
 
 Package cmap Warning: fontenc already loaded - some fonts may be unprocessed.
 
+) (D:\MikTex\tex\latex\pdfpages\pdfpages.sty
+Package: pdfpages 2017/01/14 v0.5h Insert pages of external PDF documents (AM)
+\AM@pagewidth=\dimen160
+\AM@pageheight=\dimen161
+
+(D:\MikTex\tex\latex\pdfpages\pppdftex.def
+File: pppdftex.def 2017/01/14 v0.5h Pdfpages driver for pdfTeX (AM)
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.
-sty"
+\AM@pagebox=\box68
+\AM@global@opts=\toks32
+\AM@toc@title=\toks33
+\c@AM@survey=\count142
+\AM@templatesizebox=\box69
+)
+(D:\MikTex\tex\latex\enumitem\enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip62
-\enit@outerparindent=\dimen160
-\enit@toks=\toks32
-\enit@inbox=\box68
-\enitdp@description=\count141
+\labelindent=\skip64
+\enit@outerparindent=\dimen162
+\enit@toks=\toks34
+\enit@inbox=\box70
+\enitdp@description=\count143
 ) (environment.tex
-\c@assumption=\count142
-\c@purpose=\count143
-\c@theorem=\count144
-\c@corollary=\count145
-\c@lemma=\count146
-\c@statement=\count147
-\c@proposition=\count148
-\c@definition=\count149
-\c@problem=\count150
-\c@alg=\count151
-\c@rem=\count152
-\c@exmpl=\count153
+\c@assumption=\count144
+\c@purpose=\count145
+\c@theorem=\count146
+\c@corollary=\count147
+\c@lemma=\count148
+\c@statement=\count149
+\c@proposition=\count150
+\c@definition=\count151
+\c@problem=\count152
+\c@alg=\count153
+\c@rem=\count154
+\c@exmpl=\count155
 )
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlesec.
-sty"
+(D:\MikTex\tex\latex\titlesec\titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box69
-\beforetitleunit=\skip63
-\aftertitleunit=\skip64
-\ttl@plus=\dimen161
-\ttl@minus=\dimen162
-\ttl@toksa=\toks33
-\titlewidth=\dimen163
-\titlewidthlast=\dimen164
-\titlewidthfirst=\dimen165
+\ttl@box=\box71
+\beforetitleunit=\skip65
+\aftertitleunit=\skip66
+\ttl@plus=\dimen163
+\ttl@minus=\dimen164
+\ttl@toksa=\toks35
+\titlewidth=\dimen165
+\titlewidthlast=\dimen166
+\titlewidthfirst=\dimen167
+)
+(D:\MikTex\tex\latex\titlesec\block.tss
+File: block.tss 2016/03/15
+)
+(D:\MikTex\tex\latex\titlesec\ttlkeys.def
+File: ttlkeys.def 2016/03/15
 )
 
 LaTeX Warning: Unused global option(s):
     [14pt].
 
-(diplom.aux (introduction.aux) (overview.aux) (workDefinition.aux) (po.aux)
-(control.aux) (exp.aux) (main.aux) (conclusion.aux) (bibliography.aux)
-(appends.aux))
+(diplom.aux (in.aux) (target.aux) (oprust.aux) (sintes.aux) (model.aux)
+(elec.aux) (end.aux) (bibliography.aux))
 \openout1 = `diplom.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 64.
-
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 71.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 71.
+ (D:\MikTex\tex\latex\base\ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Try loading font information for T2A+ptm on input line 64.
-LaTeX Font Info:    No file T2Aptm.fd. on input line 64.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Try loading font information for T2A+ftm on input line 71.
 
-
-LaTeX Font Warning: Font shape `T2A/ptm/m/n' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 64.
-
-<<t2a.cmap>>
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
-ii"
+(D:\MikTex\tex\latex\pscyr\t2aftm.fd
+File: t2aftm.fd 2001/12/09 Fontinst v1.914 font definitions for T2A/ftm.
+)<<t2a.cmap>>
+(D:\MikTex\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count154
-\scratchdimen=\dimen166
-\scratchbox=\box70
-\nofMPsegments=\count155
-\nofMParguments=\count156
-\everyMPshowfont=\toks34
-\MPscratchCnt=\count157
-\MPscratchDim=\dimen167
-\MPnumerator=\count158
-\makeMPintoPDFobject=\count159
-\everyMPtoPDFconversion=\toks35
+\scratchcounter=\count156
+\scratchdimen=\dimen168
+\scratchbox=\box72
+\nofMPsegments=\count157
+\nofMParguments=\count158
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count159
+\MPscratchDim=\dimen169
+\MPnumerator=\count160
+\makeMPintoPDFobject=\count161
+\everyMPtoPDFconversion=\toks37
+) (D:\MikTex\tex\generic\oberdiek\pdftexcmds.sty
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(D:\MikTex\tex\generic\oberdiek\ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(D:\MikTex\tex\latex\oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(D:\MikTex\tex\latex\oberdiek\grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(D:\MikTex\tex\generic\oberdiek\kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(D:\MikTex\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(D:\MikTex\tex\generic\oberdiek\kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(D:\MikTex\tex\generic\oberdiek\etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -697,46 +707,43 @@ ii"
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: longtable package is loaded.
-
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\ltcaption.
-sty"
+(D:\MikTex\tex\latex\caption\ltcaption.sty
 Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box71
- ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box73
+
+ABD: EveryShipout initializing macros
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 64.
+(lastpage)             ! on input line 71.
 
+(D:\MikTex\tex\latex\oberdiek\pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 
-LaTeX Font Warning: Font shape `T2A/ptm/m/n' in size <15> not available
-(Font)              size <14.4> substituted on input line 74.
+(D:\MikTex\tex\latex\graphics\lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+) (diplom.toc
+LaTeX Font Info:    Try loading font information for OT1+ftm on input line 1.
 
-(diplom.toc
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 1.
-
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+(D:\MikTex\tex\latex\pscyr\ot1ftm.fd
+File: ot1ftm.fd 2001/12/09 Fontinst v1.914 font definitions for OT1/ftm.
 )<<ot1.cmap>>
 LaTeX Font Info:    Calculating math sizes for size <14> on input line 2.
 <<oml.cmap>><<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    Try loading font information for U+msa on input line 2.
-
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+ (D:\MikTex\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 2.
-("C:\Users\aokly\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+
+(D:\MikTex\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 \tf@toc=\write5
 \openout5 = `diplom.toc'.
-
-
-
-LaTeX Font Warning: Font shape `T2A/ptm/m/sl' undefined
-(Font)              using `T2A/ptm/m/n' instead on input line 74.
 
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -747,7 +754,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 File: images/frames/itmo_frame_1_2.pdf Graphic file (type pdf)
 
 <use images/frames/itmo_frame_1_2.pdf>
-Package pdftex.def Info: images/frames/itmo_frame_1_2.pdf used on input line 74
+Package pdftex.def Info: images/frames/itmo_frame_1_2.pdf used on input line 82
 .
 (pdftex.def)             Requested size: 598.23354pt x 845.55696pt.
 
@@ -764,20 +771,20 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 Non-PDF special ignored!
 
 
-{C:/Users/aokly/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/fr
-ames/itmo_frame_1_2.pdf>]
-\openout2 = `introduction.aux'.
+{C:/Users/Valentin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images
+/frames/itmo_frame_1_2.pdf>]
+\openout2 = `in.aux'.
 
- (introduction.tex)
+ (in.tex)
 Underfull \hbox (badness 10000) has occurred while \output is active
 [] 
  []
 
-<images/frames/Doc2.pdf, id=21, 597.55246pt x 845.07718pt>
+<images/frames/Doc2.pdf, id=20, 597.55246pt x 845.07718pt>
 File: images/frames/Doc2.pdf Graphic file (type pdf)
 
 <use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 76.
+Package pdftex.def Info: images/frames/Doc2.pdf used on input line 84.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -787,681 +794,20 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [5
 
  <./images/frames/Doc2.pdf>]
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
+\openout2 = `target.aux'.
+
+ (target.tex
+<img/sist.jpg, id=73, 473.51906pt x 165.61874pt>
+File: img/sist.jpg Graphic file (type jpg)
+ <use img/sist.jpg>
+Package pdftex.def Info: img/sist.jpg used on input line 7.
+(pdftex.def)             Requested size: 473.51788pt x 165.61833pt.
+
+Overfull \hbox (18.2738pt too wide) in paragraph at lines 7--8
+ [] 
  []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 76.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[6]
-\openout2 = `overview.aux'.
-
- (overview.tex
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 28.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[7
-
-
-] <./img/img11.jpg, id=80, 414.79968pt x 320.69812pt>
-File: ./img/img11.jpg Graphic file (type jpg)
- <use ./img/img11.jpg>
-Package pdftex.def Info: ./img/img11.jpg used on input line 43.
-(pdftex.def)             Requested size: 414.79868pt x 320.69733pt.
-
-
-LaTeX Font Warning: Font shape `T2A/ptm/bx/n' undefined
-(Font)              using `T2A/ptm/m/n' instead on input line 51.
-
-<./img/img12.jpg, id=81, 676.02562pt x 338.01282pt>
-File: ./img/img12.jpg Graphic file (type jpg)
- <use ./img/img12.jpg>
-Package pdftex.def Info: ./img/img12.jpg used on input line 56.
-(pdftex.def)             Requested size: 433.62pt x 216.81743pt.
-
-<./img/img13.jpg, id=82, 529.22719pt x 347.79938pt>
-File: ./img/img13.jpg Graphic file (type jpg)
- <use ./img/img13.jpg>
-Package pdftex.def Info: ./img/img13.jpg used on input line 71.
-(pdftex.def)             Requested size: 433.62pt x 284.96913pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 79.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[8]
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 90.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[9 <./img/img11.jpg>]
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 97.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[10 <./img/img12.jpg>])
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 77.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[11 <./img/img13.jpg>]
-\openout2 = `workDefinition.aux'.
-
- (workDefinition.tex
-
-LaTeX Warning: Command \cyrk invalid in math mode on input line 31.
-
-
-LaTeX Warning: Command \cyrg invalid in math mode on input line 31.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 31.
-
-Missing character: There is no к in font cmr12!
-Missing character: There is no г in font cmr12!
-Missing character: There is no м in font cmr12!
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 40.
-
-
-LaTeX Warning: Command \cyrk invalid in math mode on input line 40.
-
-Missing character: There is no е in font cmr12!
-Missing character: There is no к in font cmr12!
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 41.
-
-
-LaTeX Warning: Command \cyrk invalid in math mode on input line 41.
-
-Missing character: There is no е in font cmr12!
-Missing character: There is no к in font cmr12!
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 42.
-
-
-LaTeX Warning: Command \cyrk invalid in math mode on input line 42.
-
-Missing character: There is no е in font cmr12!
-Missing character: There is no к in font cmr12!
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 43.
-
-
-LaTeX Warning: Command \cyrk invalid in math mode on input line 43.
-
-Missing character: There is no е in font cmr12!
-Missing character: There is no к in font cmr12!
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 44.
-
-
-LaTeX Warning: Command \cyrk invalid in math mode on input line 44.
-
-Missing character: There is no е in font cmr12!
-Missing character: There is no к in font cmr12!
-
-LaTeX Warning: Command \cyre invalid in math mode on input line 45.
-
-
-LaTeX Warning: Command \cyrk invalid in math mode on input line 45.
-
-Missing character: There is no е in font cmr12!
-Missing character: There is no к in font cmr12!
-
-Underfull \hbox (badness 3679) in paragraph at lines 54--54
-[]|\T2A/ptm/bx/n/14.4 Техническая ха-рак-те-ри-
- []
-
-
-Overfull \hbox (1.18652pt too wide) in paragraph at lines 53--66
- [][] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 67.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[12
-
-
-]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 )
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 78.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[13]
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 78.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[14]
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 78.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[15]
-\openout2 = `po.aux'.
-
- (po.tex <./img/img42.jpg, id=112, 810.02625pt x 672.5125pt>
-File: ./img/img42.jpg Graphic file (type jpg)
-
-<use ./img/img42.jpg>
-Package pdftex.def Info: ./img/img42.jpg used on input line 6.
-(pdftex.def)             Requested size: 397.48499pt x 330.00604pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 22.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[16
-
-
- <./img/img42.jpg>] <./img/img41.jpg, id=117, 361.35pt x 32.37094pt>
-File: ./img/img41.jpg Graphic file (type jpg)
-
-<use ./img/img41.jpg>
-Package pdftex.def Info: ./img/img41.jpg used on input line 31.
-(pdftex.def)             Requested size: 361.34912pt x 32.37085pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 46.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[17 <./img/img41.jpg>]
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 72.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[18]
-Underfull \hbox (badness 2932) in paragraph at lines 72--73
-[]\T2A/ptm/bx/n/14.4 Задание ко-эф-фи-ци-ен-тов ре-гу-ли-ро-ва-ния. При по-ле P
-aram,
- []
-
-
-Underfull \hbox (badness 5446) in paragraph at lines 72--73
-\T2A/ptm/bx/n/14.4 рав-ном ну-лю за-да-ют-ся про-пор-ци-о-наль-ные ко-эф-фи-ци-
-ен-ты
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 86.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[19])
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 79.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[20]
-\openout2 = `control.aux'.
-
- (control.tex
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 35.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[21
-
-
-] <./img/img21.JPG, id=134, 426.84468pt x 360.59718pt>
-File: ./img/img21.JPG Graphic file (type jpg)
-
-<use ./img/img21.JPG>
-Package pdftex.def Info: ./img/img21.JPG used on input line 40.
-(pdftex.def)             Requested size: 433.62pt x 366.34616pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 54.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[22 <./img/img21.JPG>] <./img/img31.JPG, id=140, 509.2626pt x 930.3558pt>
-File: ./img/img31.JPG Graphic file (type jpg)
-
-<use ./img/img31.JPG>
-Package pdftex.def Info: ./img/img31.JPG used on input line 57.
-(pdftex.def)             Requested size: 216.81pt x 396.08449pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 96.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[23 <./img/img31.JPG>]
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 119.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[24]
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 152.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[25]
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 181.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[26]
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 220.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[27]
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 254.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[28]
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 285.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[29])
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 80.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[30]
-\openout2 = `exp.aux'.
-
- (exp.tex <./graph/posX.jpg, id=168, 562.1pt x 421.575pt>
-File: ./graph/posX.jpg Graphic file (type jpg)
-
-<use ./graph/posX.jpg>
-Package pdftex.def Info: ./graph/posX.jpg used on input line 8.
-(pdftex.def)             Requested size: 144.54pt x 108.40399pt.
- <./graph/powX.jpg, id=169, 562.1pt x 421.575pt>
-File: ./graph/powX.jpg Graphic file (type jpg)
-
-<use ./graph/powX.jpg>
-Package pdftex.def Info: ./graph/powX.jpg used on input line 16.
-(pdftex.def)             Requested size: 144.54pt x 108.40399pt.
- <./graph/posY.jpg, id=170, 562.1pt x 421.575pt>
-File: ./graph/posY.jpg Graphic file (type jpg)
-
-<use ./graph/posY.jpg>
-Package pdftex.def Info: ./graph/posY.jpg used on input line 24.
-(pdftex.def)             Requested size: 144.54pt x 108.40399pt.
- <./graph/powY.jpg, id=171, 562.1pt x 421.575pt>
-File: ./graph/powY.jpg Graphic file (type jpg)
-
-<use ./graph/powY.jpg>
-Package pdftex.def Info: ./graph/powY.jpg used on input line 32.
-(pdftex.def)             Requested size: 144.54pt x 108.40399pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<./graph/posZ.jpg, id=172, 562.1pt x 421.575pt>
-File: ./graph/posZ.jpg Graphic file (type jpg)
- <use ./graph/posZ.jpg>
-Package pdftex.def Info: ./graph/posZ.jpg used on input line 40.
-(pdftex.def)             Requested size: 144.54pt x 108.40399pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<./graph/powZ.jpg, id=173, 562.1pt x 421.575pt>
-File: ./graph/powZ.jpg Graphic file (type jpg)
- <use ./graph/powZ.jpg>
-Package pdftex.def Info: ./graph/powZ.jpg used on input line 48.
-(pdftex.def)             Requested size: 113.81102pt x 85.35559pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<./graph/j4.jpg, id=174, 562.1pt x 421.575pt>
-File: ./graph/j4.jpg Graphic file (type jpg)
- <use ./graph/j4.jpg>
-Package pdftex.def Info: ./graph/j4.jpg used on input line 60.
-(pdftex.def)             Requested size: 144.54pt x 108.40399pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 65.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[31
-
-
- <./graph/posX.jpg> <./graph/powX.jpg> <./graph/posY.jpg>]
-<./graph/m4.jpg, id=178, 562.1pt x 421.575pt>
-File: ./graph/m4.jpg Graphic file (type jpg)
- <use ./graph/m4.jpg>
-Package pdftex.def Info: ./graph/m4.jpg used on input line 68.
-(pdftex.def)             Requested size: 144.54pt x 108.40399pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 73.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[32 <./graph/powY.jpg> <./graph/posZ.jpg> <./graph/powZ.jpg> <./graph/j4.jpg>]
-<./graph/j5.jpg, id=182, 562.1pt x 421.575pt>
-File: ./graph/j5.jpg Graphic file (type jpg)
- <use ./graph/j5.jpg>
-Package pdftex.def Info: ./graph/j5.jpg used on input line 76.
-(pdftex.def)             Requested size: 144.54pt x 108.40399pt.
-
-<./graph/m5.jpg, id=183, 562.1pt x 421.575pt>
-File: ./graph/m5.jpg Graphic file (type jpg)
- <use ./graph/m5.jpg>
-Package pdftex.def Info: ./graph/m5.jpg used on input line 84.
-(pdftex.def)             Requested size: 144.54pt x 108.40399pt.
-
-<./graph/j6.jpg, id=184, 562.1pt x 421.575pt>
-File: ./graph/j6.jpg Graphic file (type jpg)
- <use ./graph/j6.jpg>
-Package pdftex.def Info: ./graph/j6.jpg used on input line 92.
-(pdftex.def)             Requested size: 144.54pt x 108.40399pt.
-
-<./graph/m6.jpg, id=185, 562.1pt x 421.575pt>
-File: ./graph/m6.jpg Graphic file (type jpg)
- <use ./graph/m6.jpg>
-Package pdftex.def Info: ./graph/m6.jpg used on input line 100.
-(pdftex.def)             Requested size: 144.54pt x 108.40399pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-)
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 81.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[33 <./graph/m4.jpg> <./graph/j5.jpg> <./graph/m5.jpg> <./graph/j6.jpg>]
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 81.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[34 <./graph/m6.jpg>]
-\openout2 = `main.aux'.
-
- (main.tex)
-\openout2 = `conclusion.aux'.
-
- (conclusion.tex)
 Underfull \hbox (badness 10000) has occurred while \output is active
 [] 
  []
@@ -1475,49 +821,24 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
  []
 
-[35
+[6
 
 
+ <./img/sist.jpg>]
+\openout2 = `oprust.aux'.
 
+ (oprust.tex
+<img/schem1.jpg, id=83, 657.95813pt x 168.63pt>
+File: img/schem1.jpg Graphic file (type jpg)
+ <use img/schem1.jpg>
+Package pdftex.def Info: img/schem1.jpg used on input line 5.
+(pdftex.def)             Requested size: 284.52756pt x 72.92374pt.
 
-]
-\openout2 = `bibliography.aux'.
-
- (bibliography.tex
-Underfull \hbox (badness 1442) in paragraph at lines 9--10
-[]\T2A/ptm/bx/n/14.4 Преснухин, Л. Фо-то-элек-три-че-ские пре-об-ра-зо-ва-те-ли
- ин-фор-ма-ции,
- []
-
-
-Underfull \hbox (badness 7186) in paragraph at lines 12--13
-[]\T2A/ptm/bx/n/14.4 F series Kawasaki Robot Installation and Connection Manual
-
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[] 
- []
-
-File: images/frames/Doc2.pdf Graphic file (type pdf)
-<use images/frames/Doc2.pdf>
-Package pdftex.def Info: images/frames/Doc2.pdf used on input line 22.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-
- []
-
-[36
-
-
-]
-Underfull \hbox (badness 1102) in paragraph at lines 22--23
-[]\T2A/ptm/bx/n/14.4 Marcello Restelli. Пре-зен-та-ция ѕRobot Kinematicsї. Poli
-tecnico di
- []
-
+<img/per1.jpg, id=84, 681.54625pt x 398.48875pt>
+File: img/per1.jpg Graphic file (type jpg)
+ <use img/per1.jpg>
+Package pdftex.def Info: img/per1.jpg used on input line 11.
+(pdftex.def)             Requested size: 437.98723pt x 256.0748pt.
 )
 Underfull \hbox (badness 10000) has occurred while \output is active
 [] 
@@ -1532,16 +853,82 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
  []
 
-[37]
-\openout2 = `appends.aux'.
+[7
 
- (appends.tex <./img/PRA.jpg, id=202, 585.68813pt x 390.70969pt>
-File: ./img/PRA.jpg Graphic file (type jpg)
 
-<use ./img/PRA.jpg>
-Package pdftex.def Info: ./img/PRA.jpg used on input line 10.
-(pdftex.def)             Requested size: 433.62pt x 289.27563pt.
-)
+ <./img/schem1.jpg> <./img/per1.jpg>]
+\openout2 = `sintes.aux'.
+
+ (sintes.tex
+<img/solod1.png, id=88, 451.6875pt x 301.125pt>
+File: img/solod1.png Graphic file (type png)
+ <use img/solod1.png>
+Package pdftex.def Info: img/solod1.png used on input line 6.
+(pdftex.def)             Requested size: 451.68639pt x 301.12425pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[] 
+ []
+
+File: images/frames/Doc2.pdf Graphic file (type pdf)
+<use images/frames/Doc2.pdf>
+Package pdftex.def Info: images/frames/Doc2.pdf used on input line 18.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[8
+
+
+ <./img/solod1.png>] <img/solod2.png, id=94, 271.0125pt x 148.30406pt>
+File: img/solod2.png Graphic file (type png)
+
+<use img/solod2.png>
+Package pdftex.def Info: img/solod2.png used on input line 22.
+(pdftex.def)             Requested size: 271.01183pt x 148.30368pt.
+ <img/jlach.jpg, id=95, 681.54625pt x 398.48875pt>
+File: img/jlach.jpg Graphic file (type jpg)
+
+<use img/jlach.jpg>
+Package pdftex.def Info: img/jlach.jpg used on input line 29.
+(pdftex.def)             Requested size: 437.98723pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[] 
+ []
+
+File: images/frames/Doc2.pdf Graphic file (type pdf)
+<use images/frames/Doc2.pdf>
+Package pdftex.def Info: images/frames/Doc2.pdf used on input line 34.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[9 <./img/solod2.png> <./img/jlach.jpg>]
+<img/jflach.jpg, id=100, 681.54625pt x 398.48875pt>
+File: img/jflach.jpg Graphic file (type jpg)
+ <use img/jflach.jpg>
+Package pdftex.def Info: img/jflach.jpg used on input line 45.
+(pdftex.def)             Requested size: 437.98723pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[] 
+ []
+
+File: images/frames/Doc2.pdf Graphic file (type pdf)
+<use images/frames/Doc2.pdf>
+Package pdftex.def Info: images/frames/Doc2.pdf used on input line 52.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[10 <./img/jflach.jpg>])
 Underfull \hbox (badness 10000) has occurred while \output is active
 [] 
  []
@@ -1555,46 +942,161 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
  []
 
-[38
+[11]
+\openout2 = `model.aux'.
+
+ (model.tex <img/schem2.jpg, id=109, 374.90062pt x 114.4275pt>
+File: img/schem2.jpg Graphic file (type jpg)
+
+<use img/schem2.jpg>
+Package pdftex.def Info: img/schem2.jpg used on input line 5.
+(pdftex.def)             Requested size: 374.8997pt x 114.42722pt.
+ <img/per2.jpg, id=110, 681.54625pt x 398.48875pt>
+File: img/per2.jpg Graphic file (type jpg)
+
+<use img/per2.jpg>
+Package pdftex.def Info: img/per2.jpg used on input line 12.
+(pdftex.def)             Requested size: 437.98723pt x 256.0748pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[] 
+ []
+
+File: images/frames/Doc2.pdf Graphic file (type pdf)
+<use images/frames/Doc2.pdf>
+Package pdftex.def Info: images/frames/Doc2.pdf used on input line 18.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[12
 
 
- <./img/PRA.jpg>] 
+ <./img/schem2.jpg> <./img/per2.jpg>]
+<img/per3.jpg, id=114, 681.54625pt x 394.47375pt>
+File: img/per3.jpg Graphic file (type jpg)
+ <use img/per3.jpg>
+Package pdftex.def Info: img/per3.jpg used on input line 21.
+(pdftex.def)             Requested size: 442.42784pt x 256.0748pt.
+)
+Underfull \hbox (badness 10000) has occurred while \output is active
+[] 
+ []
+
+File: images/frames/Doc2.pdf Graphic file (type pdf)
+<use images/frames/Doc2.pdf>
+Package pdftex.def Info: images/frames/Doc2.pdf used on input line 88.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[13 <./img/per3.jpg>]
+\openout2 = `elec.aux'.
+
+ (elec.tex
+<img/elrel.jpg, id=118, 651.18282pt x 294.34969pt>
+File: img/elrel.jpg Graphic file (type jpg)
+ <use img/elrel.jpg>
+Package pdftex.def Info: img/elrel.jpg used on input line 12.
+(pdftex.def)             Requested size: 314.7303pt x 142.26378pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[] 
+ []
+
+File: images/frames/Doc2.pdf Graphic file (type pdf)
+<use images/frames/Doc2.pdf>
+Package pdftex.def Info: images/frames/Doc2.pdf used on input line 45.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[14
+
+
+ <./img/elrel.jpg>])
+Underfull \hbox (badness 10000) has occurred while \output is active
+[] 
+ []
+
+File: images/frames/Doc2.pdf Graphic file (type pdf)
+<use images/frames/Doc2.pdf>
+Package pdftex.def Info: images/frames/Doc2.pdf used on input line 89.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[15]
+\openout2 = `end.aux'.
+
+ (end.tex)
+Underfull \hbox (badness 10000) has occurred while \output is active
+[] 
+ []
+
+File: images/frames/Doc2.pdf Graphic file (type pdf)
+<use images/frames/Doc2.pdf>
+Package pdftex.def Info: images/frames/Doc2.pdf used on input line 90.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[16
+
+
+]
+\openout2 = `bibliography.aux'.
+
+ (bibliography.tex)
+Underfull \hbox (badness 10000) has occurred while \output is active
+[] 
+ []
+
+File: images/frames/Doc2.pdf Graphic file (type pdf)
+<use images/frames/Doc2.pdf>
+Package pdftex.def Info: images/frames/Doc2.pdf used on input line 93.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+[17
+
+
+] 
 AED: lastpage setting LastPage
-(diplom.aux (introduction.aux) (overview.aux) (workDefinition.aux) (po.aux)
-(control.aux) (exp.aux) (main.aux) (conclusion.aux) (bibliography.aux)
-(appends.aux))
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.6pt have occurred.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
- ) 
+(diplom.aux (in.aux) (target.aux) (oprust.aux) (sintes.aux) (model.aux)
+(elec.aux) (end.aux) (bibliography.aux)) ) 
 Here is how much of TeX's memory you used:
- 8025 strings out of 493634
- 113766 string characters out of 3135239
- 205413 words of memory out of 3000000
- 11114 multiletter control sequences out of 15000+200000
- 10286 words of font info for 32 fonts, out of 3000000 for 9000
- 1025 hyphenation exceptions out of 8191
- 50i,16n,42p,3222b,403s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\aokly\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\la
-rm1728.pk> <C:\Users\aokly\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\d
-pi600\larm1200.pk> <C:\Users\aokly\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\unk
-nown\unknown\dpi600\larm1440.pk><C:/Users/aokly/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/aokly/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/aokly/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/User
-s/aokly/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.
-pfb><C:/Users/aokly/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb><C:/Users/aokly/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmr12.pfb><C:/Users/aokly/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/aokly/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on diplom.pdf (35 pages, 1793016 bytes).
+ 8861 strings out of 493333
+ 120920 string characters out of 3146969
+ 219999 words of memory out of 3000000
+ 12060 multiletter control sequences out of 15000+200000
+ 20752 words of font info for 46 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 50i,22n,42p,908b,394s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/MikTex/fonts/enc/t2/t2a.enc}<D:/M
+ikTex/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/MikTex/fonts/type1/public/a
+msfonts/cm/cmmi10.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/
+MikTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MikTex/fonts/type1/public/a
+msfonts/cm/cmr12.pfb><D:/MikTex/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Mik
+Tex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MikTex/fonts/type1/public/psc
+yr/times.pfb><D:/MikTex/fonts/type1/public/pscyr/times.pfb><D:/MikTex/fonts/typ
+e1/public/pscyr/timesbd.pfb>
+Output written on diplom.pdf (14 pages, 538010 bytes).
 PDF statistics:
- 426 PDF objects out of 1000 (max. 8388607)
+ 166 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 

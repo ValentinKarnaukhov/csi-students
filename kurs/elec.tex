@@ -1,0 +1,46 @@
+\section{Реализация регулятора}
+Для реализации регулятора, необходимо представить передаточную функцию в виде произведения типовых динамических звеньев.
+\begin{align}
+W_p(s) = \sqrt{K_p}\frac{T_1s + 1}{T_2s + 1}\cdot\sqrt{K_p}\frac{T_3s + 1}{T_4s + 1}.
+\end{align}\par
+\begin{align}
+W_p(s) = \sqrt{0.87}\frac{0.22s + 1}{0.23s + 1}\cdot\sqrt{0.87}\frac{0.059s + 1}{0.0067s + 1}.
+\end{align}\par
+Данные типовые звенья реализуются с помощью последовательного соединения четырехполюснков. Электрическая схема регулятора представлена на рисунке 11. 
+\begin{figure}[h!]
+	\begin{center}
+		\includegraphics[height=5cm]{img/elrel}
+		\caption{Электрическая схема регулятора}
+	\end{center}  
+\end{figure}\par
+Найдем параметры элементов схемы. Для этого требуется решить систему уравнений следующего вида:
+\begin{align}
+\begin{cases}
+\begin{cases}
+T_1 = R_1C_1 = 0.22\\
+T_2 = \frac{R_1R_2}{R_1 + R_2}C_1 = 0.23\\
+\sqrt{K_p} = \frac{R_2}{R_1 + R_2} = 0.87
+\end{cases}\\
+\begin{cases}
+T_3 = R_3C_2 = 0.059\\
+T_4 = \frac{R_3R_4}{R_3 + R_4}C_2 =  0.0067\\
+\sqrt{K_p} = \frac{R_4}{R_3 + R_4} = 0.87
+\end{cases}
+\end{cases}
+\end{align}
+При решении системы получаем следующие параметры:
+\begin{align}
+\begin{cases}
+\begin{cases}
+R1=0.5 \text{Ом}\\
+R2=0.01 \text{Ом}\\
+C1= 0.44 \text{Ф}
+\end{cases}\\
+\begin{cases}
+R3=1 \text{Ом}\\
+R4=1.254 \text{Ом}\\
+C2=0.059 \text{Ф}
+\end{cases}
+\end{cases}
+\end{align}\par
+Схема была составлена в среде разработки P-CAD 2006.
